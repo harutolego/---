@@ -1,0 +1,32 @@
+{
+    "name": "プログラミングクラブ　正式　持ち出し厳禁　使用注意",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-kitronik-move-motor": "github:kitronikltd/pxt-kitronik-move-motor#v0.4.13",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.0",
+        "radio-broadcast": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v5.0.6",
+        "tag": "v5.0.6",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/a7b22b445e8aebdca9d19b7fb2250d11b06e8009",
+        "target": "5.0.6",
+        "pxt": "8.0.3",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
